@@ -1,22 +1,17 @@
 {
-    "6714c573c749bece": {
-        "username": "tranhuy2023",
-        "password": "VsXslknNeBeKCKeD"
+    "7893666f16c5b151": {
+        "username": "giaphu2019",
+        "password": "giaphu2019"
     },
-    "4db4869f657f6363": {
-        "user": "tranhuy2023",
-        "password": "VsXslknNeBeKCKeD"
+    "14d49e520cc021b5": {
+        "user": "giaphu002019",
+        "password": "IsJmyspwduhdP2OR"
     },
-    "d8155337346fe797": {
-        "user": "tranhuy002023",
-        "password": "0949326546Aa"
+    "5707584e03e60c38": {
+        "creds": "{\n  \"type\": \"service_account\",\n  \"project_id\": \"dev-entropy-410903\",\n  \"private_key_id\": \"0d90f6e255887b1aa1445a79a3c8e85740de3f82\",\n  \"private_key\": \"-----BEGIN PRIVATE KEY-----\\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCQV9K7AYutrOKt\\nKiMv4pmzR9EfNmzrix58HyTM4C0D45CBa3IM55MzJIzihi3hpiIBwtDTKVmiZ+Jr\\nUfRvdLMe1pgdoD2+hZ2tn23sP9Rw1yHEY/ODf1ACYrQcRfOkTjuJZ0nbx4pK5IIt\\nH7BFPMEscb5m4fDtpD2ePCnC9qu/vx73Dn5PYdkTy+oJJxGAsRwWnsZW8Ng+1D/N\\nw277gpCe0e57AjqAXMJjThqqj5D9Vxqi4c4XOzX8HKThZnrdid2c9Pk/8ixJq7lD\\nXGkOVqBhJjl5K02S8pgm/B+U18Sy4zyN/DeSI3w3LL6xhLBj0iAME4Kq98StPx6f\\nTjKlfm9HAgMBAAECggEABtTDejOgGIHtX811//25iCXUYRNZUSGOOaQk0v8QcAhA\\nBzkZ0fbPr5bvYRml+oO7RSLsJ/R1vMrkZG+PfS9tZ9oSo3VwFqAKM1AK+HF0URbN\\nWClP8R+k55Ej/djWzAG09sEJEV6sThkOr4YDHSqWw4XYQWaBa8ADroVGGdT7kdgu\\nfRlxE/6exI2Zhttk4HKXMOyO1E/IHwOfUGh4UwwGDj06TrSXXJDMaa6wIFT5TOEe\\nfPwhDE3wHKiH/r8d8sY1HMIdppbfEDiJHXWsq3UhHsZFLWhFG0NuNWfxdnkysF7U\\nhlnsPyw1zEPE37z7tW/aMuyDp3fcv3xyneuagQHi4QKBgQDBosSP7GQ4EH9SvuSZ\\nTiB8MUzXOIWwmQTU9DTnTt44GYoKhjxM1dVTLnXOimQqTfo7xLkEZx2Mrfn7FlaZ\\nzkR96bKibLnJfN671X4PZAol1e3bwtMajDioCbFdiuSp4rGAs0rLJWORdgktvAKX\\nljPaco1WHzfmOjc7UcN5JyxYlwKBgQC+1ODSMXH4JdQ7I5pHBHg/GyTvdbG2ojAa\\nKOT1WXAODIbYlUW3bNj5BLFg4Grwbkme2DBtBSHKDy0LaeeUBkj0uJHofrppyNw1\\nVPiTOyW4ZZv1gRHwogIb0IS2Bkl2WVrAoGU/87vQ6n3CBxnKNxSCYOcP7hHM4xEl\\nt1yuGY5E0QKBgQCaBH2UfNK6RWUAzBXIWvw7zHryNWMhNJVDTXtHANSAis/hzyPn\\nea5Um3/Y6PsDK0L+h1sixWIbo8ZSkVIQxKB2Boyv5Qth2JDRlt7OHyRzM9YeFrkT\\nRLVL82nAndmDx2yokfPL4dFwwhJK7mChcjeMadFBz1MHLQcBh+eTVjVPwQKBgCON\\nob1HfQZQdfP2tB2bFZQcSItckBmIqhGVoOKdISVc7BqZ5P1BiEMMvsdfyEy3H3w6\\npvsIw7zTiv7fYkfPy/PcF0MLqUtgIrbE9/LmSCbMt3vL6j280UvBU5heH32vNBtD\\nRtndXRaVOYzWqdVk4atQxnvPTP2xKFawjNHa7QihAoGAY9Yww5CospTOfpidO70P\\nKkXJQNk0cYtIz1S4aCY0UGJcYCORG/7xb8y7NK4aP8h1wL9OezYPl1pQElKkJ9Cy\\nRH4/rxlWNkc+GU0jl7OF3pA2QKINcpoPxL4BuH8PJpenbNKnNLAP4jbC7Rw5i7Cv\\nhB1zJlVt06eSlll4OX1ANsE=\\n-----END PRIVATE KEY-----\\n\",\n  \"client_email\": \"node-red@dev-entropy-410903.iam.gserviceaccount.com\",\n  \"client_id\": \"108601320309285772485\",\n  \"auth_uri\": \"https://accounts.google.com/o/oauth2/auth\",\n  \"token_uri\": \"https://oauth2.googleapis.com/token\",\n  \"auth_provider_x509_cert_url\": \"https://www.googleapis.com/oauth2/v1/certs\",\n  \"client_x509_cert_url\": \"https://www.googleapis.com/robot/v1/metadata/x509/node-red%40dev-entropy-410903.iam.gserviceaccount.com\",\n  \"universe_domain\": \"googleapis.com\"\n}\n"
     },
-    "10b31caf7dfed95c": {
-        "username": "tranhuy002023",
-        "password": "0949326546aA"
-    },
-    "151d5bb044d8af6d": {
-        "user": "tranhuy002023",
-        "password": "0949326546Aa"
+    "aeb09aab19e07672": {
+        "userid": "dathnguyengiaphu95@gmail.com",
+        "password": "ptce ndfr ffzt faxi"
     }
 }
